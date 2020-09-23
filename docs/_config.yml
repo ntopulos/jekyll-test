@@ -1,5 +1,4 @@
-baseurl: /
-url: https://ntopulos.github.io/
+baseurl: /jekyll-test
 sass:
     sass_dir: _sass
     style: compressed
