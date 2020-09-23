@@ -1,4 +1,4 @@
-baseurl: /jekyll-test
+baseurl: /
 url: https://ntopulos.github.io/
 sass:
     sass_dir: _sass
